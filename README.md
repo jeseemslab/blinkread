@@ -1,5 +1,8 @@
 # BlinkRead v0.3
 
+Try the app here:  
+👉 [BlinkRead Live](https://rapid-read-boost.lovable.app/)
+
 BlinkRead is an AI-powered speed reading system built to improve reading speed, focus, and comprehension using Rapid Serial Visual Presentation (RSVP) and intelligent document processing.
 
 ---
